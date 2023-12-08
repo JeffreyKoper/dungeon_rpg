@@ -1,0 +1,3 @@
+﻿  Dungeon_Crawler.cpp
+C:\Users\Jeffrey Koper\OneDrive - ROC Nova College\School\Periode 9\Verdieping Software\Dungeon_Crawler\Dungeon_Crawler\Dungeon_Crawler.cpp(567,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dungeon_Crawler.vcxproj -> C:\Users\Jeffrey Koper\OneDrive - ROC Nova College\School\Periode 9\Verdieping Software\Dungeon_Crawler\x64\Debug\Dungeon_Crawler.exe
